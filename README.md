@@ -5,6 +5,16 @@
 
 This is a simple React weather application that allows users to search for weather information by entering a city name.
 
+## Technologies Used
+
+- React ⚛️
+- Fetch API 🌐
+- OpenWeatherMap API 🌍
+- CSS3 🎨
+- VsCode 💻
+- Vercel 🌐
+
+
 ## File Structure
 
 ```plaintext
@@ -72,19 +82,15 @@ Make sure you have Node.js and npm installed on your machine. 🚀
 
 4. **Open your browser and navigate to** [http://localhost:3000](http://localhost:3000) **to use the Weather App.**
 
-## Vercel Deployment
+## Deployment
 
-You can deploy the Weather App easily using Vercel.
+The portfolio is deployed on [Vercel](https://vercel.com/), providing a fast and reliable hosting solution.
 
 ## Features
 
 - Enter a city name to get current weather information. ☀️🌧️❄️
 - Displayed information includes temperature, humidity, wind speed, and weather icon.
 
-## Technologies Used
 
-- React ⚛️
-- Fetch API 🌐
-- OpenWeatherMap API 🌍
 
 ## Happy Coding 🚀
