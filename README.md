@@ -14,6 +14,11 @@ This is a simple React weather application that allows users to search for weath
 - VsCode 💻
 - Vercel 🌐
 
+## Features
+
+- **Fully Responsive:** Ensures a seamless experience across various devices.
+- Enter a city name to get current weather information. ☀️🌧️❄️
+- Displayed information includes temperature, humidity, wind speed, and weather icons.
 
 ## File Structure
 
@@ -86,10 +91,6 @@ Make sure you have Node.js and npm installed on your machine. 🚀
 
 The portfolio is deployed on [Vercel](https://vercel.com/), providing a fast and reliable hosting solution.
 
-## Features
-
-- Enter a city name to get current weather information. ☀️🌧️❄️
-- Displayed information includes temperature, humidity, wind speed, and weather icon.
 
 
 
